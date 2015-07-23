@@ -8,4 +8,4 @@ Bu oyun başlangıç seviyesindedir,bu oyunu ilerleyen zamanda geliştirmeye dev
 
 Keyifle oynamanız dileği ile..
 
-Mehmet DiK & Said ALTINTOP
+
